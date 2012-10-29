@@ -1,0 +1,7 @@
+ƒƒOƒCƒ“
+isamaru
+isamarudog@gmail.com
+
+app_id = '30079'
+key = '3d85936b294d0945384b'
+secret = '5ddf4528126b66e6b2f5'
