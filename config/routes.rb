@@ -2,9 +2,10 @@ MyOnlineGame::Application.routes.draw do
 
 #  resources :pushers
 
+  # pusher test ここから -----------------------------------------------------
   get "pusher/index" => "pusher#index"
-
   post "pusher/create" => "pusher#create"
+  # pusher test ここまで -----------------------------------------------------
 
 
   # The priority is based upon order of creation:
