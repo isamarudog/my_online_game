@@ -2,6 +2,15 @@ My Online Game
 ================================
 WebGL + WebSocket + Rails で簡単なオンラインゲームを作ってみたいです．
 
+Use
+----
+
+    Start server:
+      ruby lib/websocket_server_channel.rb
+      rails s
+
+    Access:
+      http://localhost:3000/prototype_index
 
 Credit
 -----
