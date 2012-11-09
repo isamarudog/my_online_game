@@ -1,0 +1,10 @@
+@font-face{
+  font: {
+    family: 'IPAexGothic';
+  }
+  src: asset-url('ipaexg.ttf', font) format('truetype')
+}
+
+body {
+  font-family: 'IPAexGothic';
+}

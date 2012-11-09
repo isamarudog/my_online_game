@@ -40,5 +40,11 @@ gem 'jquery-rails'
 # Pusher で  WebSocket を使う http://ig-partners.co.jp/takumi/index.php/archives/72
 gem "pusher"
 
+# WebSocket
+gem 'em-websocket'
+
+# JSON
+gem 'json'
+
 # デバッグ http://d.hatena.ne.jp/yuya_lush/20110601/1306920275
 #gem "ruby-debug19"

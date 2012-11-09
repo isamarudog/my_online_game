@@ -1,0 +1,6 @@
+﻿
+Webフォント
+http://strix01.blogspot.jp/2012/06/rails-rails3web.html
+
+WebSocket
+http://d.hatena.ne.jp/nkmrshn/20110127/1296101337

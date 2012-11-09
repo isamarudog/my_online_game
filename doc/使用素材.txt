@@ -1,0 +1,30 @@
+﻿サービス
+	Pusher
+
+ライブラリ
+	JS
+		jQuery
+		GLGE
+		Pusher
+
+	Ruby
+    	EM::WebSocket The MIT License - Copyright (c) 2009 Ilya Grigorik
+
+フォント
+	IPAexGothic
+
+モデル
+	http://www.turbosquid.com/Search/3D-Models/free
+		http://www.turbosquid.com/FullPreview/Index.cfm/ID/385038
+		http://www.turbosquid.com/FullPreview/Index.cfm/ID/327243
+		http://www.turbosquid.com/FullPreview/Index.cfm/ID/192070
+		http://www.turbosquid.com/3d-models/3ds-max-merlin-sorcerer/192029
+
+テクスチャ
+	http://www.turbosquid.com/Search/Texture-Maps
+		http://www.turbosquid.com/FullPreview/Index.cfm/ID/334743
+
+音
+	http://www.01earth.net/sound/
+		http://www.01earth.net/sound/material/bgm/mid/001.mid
+

@@ -58,5 +58,14 @@ module MyOnlineGame
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+
+    
+
+
+
+
+    # fontを格納するフォルダを追加 参考：http://strix01.blogspot.jp/2012/06/rails-rails3web.html
+    config.assets.paths << "#{Rails.root}/app/assets/fonts"
+
   end
 end

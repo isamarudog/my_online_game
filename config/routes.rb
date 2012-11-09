@@ -2,10 +2,24 @@ MyOnlineGame::Application.routes.draw do
 
 #  resources :pushers
 
-  # pusher test ここから -----------------------------------------------------
-  get "pusher/index" => "pusher#index"
-  post "pusher/create" => "pusher#create"
-  # pusher test ここまで -----------------------------------------------------
+  # prototype ここから ========================================================
+
+  # pusher_caht ここから ------------------------------------------------------
+  get "prototype/pusher_chat" => "prototype#pusher_chat"
+  post "prototype/pusher_chat_push" => "prototype#pusher_chat_push"
+  # pusher_chat ここまで ------------------------------------------------------
+
+  # websocket ここから --------------------------------------------------------
+  get "prototype/websocket_chat" => "prototype#websocket_chat"
+  get "prototype/websocket_chat_channel" => "prototype#websocket_chat_channel"
+  # websocket ここまで --------------------------------------------------------
+
+  # test_map ここから ---------------------------------------------------------
+  get "prototype/test_map" => "prototype#test_map"
+  # test_map ここまで ---------------------------------------------------------
+
+  # prototype ここまで ========================================================
+
 
 
   # The priority is based upon order of creation:
